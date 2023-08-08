@@ -1,6 +1,6 @@
 # config_file = r"./config.json"
 import json
-Swan = True
+Swan = False
 if Swan:
     config_file = r"./config.json"
 else:
